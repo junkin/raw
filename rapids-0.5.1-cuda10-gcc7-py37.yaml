@@ -29,3 +29,4 @@ dependencies:
   - python=3.7
   - scikit-learn
   - scipy
+  - tornado=5.1.1
